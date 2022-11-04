@@ -2,3 +2,15 @@ img{
     height: auto;
     width: 50%;
 }
+h1{
+    background-color: indigo;
+}
+h3{
+    background-color: blanchedalmond;
+}
+p{
+    background-color: azure;
+}
+h5{
+    background-color: cadetblue;
+}
